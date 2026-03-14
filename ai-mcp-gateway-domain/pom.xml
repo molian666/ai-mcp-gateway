@@ -43,6 +43,11 @@
             <groupId>org.example</groupId>
             <artifactId>ai-mcp-gateway-types</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>io.projectreactor</groupId>
+            <artifactId>reactor-core</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
