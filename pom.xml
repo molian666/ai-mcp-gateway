@@ -123,6 +123,13 @@
                 <version>3.7.3</version>
             </dependency>
 
+            <!-- 扳手工程-->
+            <dependency>
+                <groupId>cn.bugstack.wrench</groupId>
+                <artifactId>xfg-wrench-starter-design-framework</artifactId>
+                <version>3.0.0</version>
+            </dependency>
+
             <!-- 工程模块 -->
             <dependency>
                 <groupId>org.example</groupId>
